@@ -1,0 +1,15 @@
+.root {
+  width: 600px;
+}
+
+.container {
+  height: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.progress {
+  height: 100%;
+  width: 0;
+  background-color: red;
+}
